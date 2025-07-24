@@ -1,0 +1,6 @@
+Sitemap: https://worldofsphere.com/sitemap.xml
+
+User-agent: *
+Disallow: 
+Crawl-delay: 5
+Disallow: /readme
