@@ -2487,12 +2487,13 @@ section,
 --------------------------------------------------------------*/
 .coll .coll-item {padding: 30px; transition: 0.3s;}
 .coll .coll-item .icon {font-size: 36px; line-height: 0; margin-right: 30px; color: var(--accent-color);}
-.coll .coll-item .title {font-weight: 700; margin-bottom: 15px; font-size: 20px;}
+.coll .coll-item .title {font-weight: 700; margin-bottom: 15px; font-size: 45px;}
 .coll .coll-item .title a {color: var(--heading-color);}
 .coll .coll-item .description {line-height: 24px; font-size: 14px; margin: 0;}
 .coll .coll-item:hover {border-color: var(--accent-color);}
 .coll .coll-item:hover .title a {color: var(--accent-color);}
 .coll-img {display: block; margin: auto; max-width: 95%;}
+.coll-text {display: block; margin: auto; text-align: center; max-width: 95%;}
 .coll-bg1 {background-color: #A4C8CE !important;}
 .coll-bg2 {background-color: #C0D3D8 !important;}
 .coll-bg3 {background-color: #CFE3E7 !important;}
